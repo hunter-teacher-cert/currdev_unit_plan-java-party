@@ -15,41 +15,41 @@ Week 1 - Lab 1:  Hello World
 * Textbook Reading
 * Minimum Requirements:  The program says, “Hello World!”
 * Topics:  
-** Setting up the JDK.
-** Setting up the IDE
-** Introduction to Java syntax
+  * Setting up the JDK.
+  * Setting up the IDE
+  * Introduction to Java syntax
 
 Week 2 - Lab 2:  Calculator
 * Textbook Reading
 * Minimum Requirements:  The program asks for at least one string, at least one int, at least one char, and at least one float.  Output is produced using these values.  
 * Topics:
-** Primitive types
-** Variables
-** Assignment
-** Concatenation
-** Input and Output
+  * Primitive types
+  * Variables
+  * Assignment
+  * Concatenation
+  * Input and Output
 
 Week 3 - Lab 3:  Dice
 * Textbook Reading
 * Minimum Requirements:  The program allows the user to roll two six-sided dice.  The AI also rolls two six-sided dice.  The winner gets one victory point.  The first player to earn three victory points is the Dice Champion!
-** Methods
-** Iteration
-** Selection
-** Sequencing
-** Arguments
-** Parameters
+  * Methods
+  * Iteration
+  * Selection
+  * Sequencing
+  * Arguments
+  * Parameters
 
 Week 4- Lab 4:  Maze
 * Textbook Reading
 * Minimum Requirements:  The program generates a maze, which does not need to be created randomly.  The program must include at least one class, at least one constructor, at least one class method, at least one instance variable, and at least one object.  The user can control a player and try to move the player safely from the beginning of the maze to the end of the maze.
-** Classes
-** Constructors
-** Class Methods
-** Instance Variables
-** Objects
+  * Classes
+  * Constructors
+  * Class Methods
+  * Instance Variables
+  * Objects
 
 Week 5- Lab 5:  Creative Project  
 * Textbook Reading
 * Minimum Requirements:  This program can be of any type desired by the programmer as long as it demonstrates understanding of at least ten of the topics listed above.
-** At least ten topics of the programmer’s choice
+  * At least ten topics of the programmer’s choice
 

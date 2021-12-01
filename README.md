@@ -66,6 +66,8 @@ Inspiration:  College Board's AP Computer Science A Curriculum
 Total length: 5 months (taught as a supplement to the standard curriculum over the course of the school year)
 
 (list each lesson with main topic(s))
+
+Standard:  9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation
 Java Lab 1 - October:  ASCII Art  
 Textbook Reading:  pp. 7-20
 AP CSA Lite Lab 1 - Standard:  The program displays the student’s name in ASCII art on multiple lines.    ASCII art is a larger image made up of smaller printable characters that can be created with a computer keyboard.
@@ -80,6 +82,7 @@ Optional Supports:
 -Students may receive support in tutoring on Mondays and Thursdays from 3:30-4:30 in 131 or on Zoom at URL
 -Students may email the teacher to request a code skeleton for added support.
 
+Standard:  9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation
 Java Lab 2 - November:  Calculator
 Textbook Reading:  pp. 21- 60
 AP CSA Lite Lab 2 - Standard:  The program asks for at least one string, at least one int, at least one char, and at least one float.  Output is produced using these values.  Concatenation is used in the program.  
@@ -94,6 +97,7 @@ Optional Supports:
 -Students may receive support in tutoring on Mondays and Thursdays from 3:30-4:30 in 131 or on Zoom at URL
 -Students may email the teacher to request a code skeleton for added support.
 
+Standard:  9-12.CT.4 - Implement a program using a combination of student-defined and third-party functions to organize the computation.
 Java Lab 3 - December:  Dice
 Textbook Reading:  pp. 61-86
 AP CSA Lite Lab 3 - Standard:  The program allows the user to roll two six-sided dice.  The AI also rolls two six-sided dice.  The winner gets one victory point.  The first player to earn three victory points is the Dice Champion!  At least one method with at least one parameter is defined and called in the program, and there is at least one example of sequencing, selection, and iteration.  
@@ -109,6 +113,7 @@ Optional Supports:
 -Students may receive support in tutoring on Mondays and Thursdays from 3:30-4:30 in 131 or on Zoom at URL
 -Students may email the teacher to request a code skeleton for added support.
 
+Standard:  9-12.CT.4 - Implement a program using a combination of student-defined and third-party functions to organize the computation.
 Java Lab 4 - January:  Maze
 Textbook Reading:  pp. 87-102 
 AP CSA Lite Lab 4 - Standard:  The program generates a maze that is the same every time the program runs.  The program must include at least one class, at least one constructor, at least one class method, at least one instance variable, and at least one object.  The user can control a player and try to move the player safely from the beginning of the maze to the end of the maze.
@@ -123,6 +128,7 @@ Optional Supports:
 -Students may receive support in tutoring on Mondays and Thursdays from 3:30-4:30 in 131 or on Zoom at URL
 -Students may email the teacher to request a code skeleton for added support.
 
+Standard:  9-12.CT.4 - Implement a program using a combination of student-defined and third-party functions to organize the computation.
 Java Lab 5 - February:  Creative Project  
 Textbook Reading:  other sections of the book as desired
 AP CSA Lite Lab 5 - Standard:  This program can be of any type desired by the programmer as long as it demonstrates understanding of at least ten of the topics listed above.
